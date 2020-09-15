@@ -22,4 +22,5 @@ a command-line arg to specify "k") is left as an exercise for the reader.
 
 ## Credits
 C and Python code copied from code blocks in https://medium.com/delta-force/extending-python-with-c-f4e9656fbf5d
+
 Java code mimics the copied C code, with minor syntactic fixes.
